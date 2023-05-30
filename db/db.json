@@ -1,12 +1,12 @@
 [
   {
-    "title": "Test note",
-    "text": "this is a test note\n",
+    "title": "New note",
+    "text": "this is a new note",
     "id": "0"
   },
   {
-    "title": "Another test note",
-    "text": "this is another test note",
+    "title": "Newer note",
+    "text": "this is a newer note",
     "id": "1"
   }
 ]
